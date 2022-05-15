@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://twitter.com/https://twitter.com/ahmed_adel8875?t=vdinix7vgu-iy_p9-twzla&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/ahmed_adel8875?t=vdinix7vgu-iy_p9-twzla&s=09" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/ahmed.hamada.3517" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ahmed.hamada.3517" height="30" width="40" /></a>
-<a href="https://instagram.com/https://instagram.com/ahmed.adel72?igshid=b32016rjl445" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/ahmed.adel72?igshid=b32016rjl445" height="30" width="40" /></a>
+<a href="https://instagram.com/ahmed.adel72" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmed.adel72" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
